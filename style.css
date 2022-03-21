@@ -1,0 +1,42 @@
+* {
+  font-family: "Manrope", sans-serif;
+  --darkGray: hsl(217, 19%, 35%);
+  --darkBlue: hsl(214, 17%, 51%);
+  --grayBlue: hsl(212, 23%, 69%);
+  --lightGray: hsl(210, 46%, 95%);
+  font-size: 14px;
+}
+
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    position: relative;
+    max-width: 75%;
+    margin: 15%
+}
+
+.copy {
+    background-color: white;
+}
+
+.ad {
+    padding-left:52%;
+    padding-top: 5%;
+    padding-right: 5%
+}
+
+h1 {
+  font-size: 27px;
+}
+
+img {
+    max-width: 45%;
+    float: left;
+}
+
+.avatar {
+   border-radius: 50%; 
+   max-width: 20%;
+}
